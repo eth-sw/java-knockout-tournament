@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Tournament Knockout System is a Java program designed to manage and organize knockout-style tournaments. The program handles team and player details, conducts group matches, and runs a knockout tournament with a binary tree structure. Users can input team and player information, run group matches, and determine winners based on the scoring system.
+The Knockout Tournament is a Java program designed to manage and organize knockout-style tournaments. The program handles team and player details, conducts group matches, and runs a knockout tournament with a binary tree structure. Users can input team and player information, run group matches, and determine winners based on the scoring system.
 
 ## Table of Contents
 
