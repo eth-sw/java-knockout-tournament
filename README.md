@@ -10,8 +10,6 @@ The Knockout Tournament is a Java program designed to manage and organize knocko
 - [Usage](#usage)
 - [Classes](#classes)
 - [How It Works](#how-it-works)
-- [Example Usage](#example-usage)
-- [Authors](#authors)
 - [License](#license)
 
 ## Getting Started
